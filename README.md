@@ -1,1 +1,2 @@
-# manipulator-2d-lidar-spiral
+# manipulator+2dlidar with spiral
+
